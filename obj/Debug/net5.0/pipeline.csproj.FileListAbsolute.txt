@@ -1,0 +1,16 @@
+C:\projects\pipeline\MyRepo\bin\Debug\net5.0\pipeline.exe
+C:\projects\pipeline\MyRepo\bin\Debug\net5.0\pipeline.deps.json
+C:\projects\pipeline\MyRepo\bin\Debug\net5.0\pipeline.runtimeconfig.json
+C:\projects\pipeline\MyRepo\bin\Debug\net5.0\pipeline.runtimeconfig.dev.json
+C:\projects\pipeline\MyRepo\bin\Debug\net5.0\pipeline.dll
+C:\projects\pipeline\MyRepo\bin\Debug\net5.0\ref\pipeline.dll
+C:\projects\pipeline\MyRepo\bin\Debug\net5.0\pipeline.pdb
+C:\projects\pipeline\MyRepo\obj\Debug\net5.0\pipeline.csprojAssemblyReference.cache
+C:\projects\pipeline\MyRepo\obj\Debug\net5.0\pipeline.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\pipeline\MyRepo\obj\Debug\net5.0\pipeline.AssemblyInfoInputs.cache
+C:\projects\pipeline\MyRepo\obj\Debug\net5.0\pipeline.AssemblyInfo.cs
+C:\projects\pipeline\MyRepo\obj\Debug\net5.0\pipeline.csproj.CoreCompileInputs.cache
+C:\projects\pipeline\MyRepo\obj\Debug\net5.0\pipeline.dll
+C:\projects\pipeline\MyRepo\obj\Debug\net5.0\ref\pipeline.dll
+C:\projects\pipeline\MyRepo\obj\Debug\net5.0\pipeline.pdb
+C:\projects\pipeline\MyRepo\obj\Debug\net5.0\pipeline.genruntimeconfig.cache
